@@ -24,7 +24,7 @@ conflict-remote上で更新（conflict発生）
 >>>>>>> conflict-remote
 
 
-mainで変更　コンフリクト用（2024/5/24）
+rebase-practiceで変更(コンフリクト用)（2024/5/24）
 
 
 
